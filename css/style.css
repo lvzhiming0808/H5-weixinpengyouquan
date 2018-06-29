@@ -1,0 +1,454 @@
+body,html{width:7.5rem;height:100%;overflow-y:scroll;overflow-x:hidden}
+html{;font-size:625%}
+/*起始页*/
+.start{
+	width:100%;height:100%;
+}
+.start{
+	background: url(../img/start.gif) no-repeat;
+	background-size:cover;
+	background-size:100% 100%;
+	overflow:hidden;
+}
+
+/*起始页结束*/
+/*首页开始*/
+.background{
+	width:100%;height:100%;
+}
+.background{
+	background: url(../img/bg-1.png) no-repeat;
+	background-size:100% 100%;
+	overflow:hidden;
+}
+.animt-who{
+	margin-top: 1.3rem;
+    width: 1.1rem;
+    margin-left: 1.2rem;
+}
+.animt-are{
+	margin-top: 0.05rem;
+    width: 1.1rem;
+    margin-left: 1.7rem;
+}
+.animt-you{
+	margin-top: 0.05rem;
+    width: 1.2rem;
+    margin-left: 2rem;
+}
+.peopoli{
+	position: relative;
+}
+.animt-peop-li{
+	position: absolute;
+	width: 4.6rem;
+	right: 0.1rem;
+	top: -2rem;
+}
+.animt-peop-wo{
+    position: absolute;
+    right: 1.35rem;
+    top: 0.35rem;
+    width: 0.4rem;
+    display: none;
+}
+.animt-peop-shi{
+	position: absolute;
+    right: 0.95rem;
+    top: 0.5rem;
+    width: 0.4rem;
+    display: none;
+}
+.animt-peop-lipng{
+	position: absolute;
+    right: 0.65rem;
+    top: 0.28rem;
+    width: 0.4rem;
+    display: none;
+}
+.animt-peop-bai{
+	position: absolute;
+    right: 0.35rem;
+    top: 0.55rem;
+    width: 0.4rem;
+    display: none;
+}
+.kao{
+	position: relative;
+}
+.animt-kao{
+	width: 1.8rem;
+    position: absolute;
+    left: 0.5rem;
+}
+.animt-kao2{
+	width: 1.45rem;
+    position: absolute;
+    top: 1.75rem;
+    left: 0.2rem;
+}
+.animt-ni{
+	width: 1.8rem;
+    position: absolute;
+    top: 2rem;
+    left: 1.5rem;
+}
+.kaostyle-1{
+	width: 0.5rem;
+	margin-left: 0.5rem;
+}
+.kaostyle-2{
+	width: 0.5rem;
+	position: absolute;
+    left: 2.2rem;
+    top: 0.8rem;
+}
+.kaostyle-3{
+	width: 0.5rem;
+	position: absolute;
+    left: 0rem;
+    top: 2rem;
+}
+.kaostyle-4{
+	width: 0.5rem;
+	position: absolute;
+    left: 3rem;
+    top: 2.5rem;
+}
+.kaostyle-5{
+    position: absolute;
+    left: 0.5rem;
+    top: 4.3rem;
+    width: 3rem;
+}
+.onetitle{
+	position: relative;
+	text-align: center;
+}
+.kaostyle-6{
+    width: 5rem;
+    padding-top: 4.4rem;
+}
+.kaostyle-7{
+	width: 0.4rem;
+    position: absolute;
+    top: 5.7rem;
+    left: 1.4rem;
+}
+.kaostyle-8{
+	width: 0.4rem;
+    position: absolute;
+    top: 6.4rem;
+    left: 1.4rem;
+}
+.kaostyle-9{
+	width: 0.4rem;
+    position: absolute;
+    top: 7.3rem;
+    left: 1.4rem;
+}
+.kaostyle-10{
+	width: 4.1rem;
+    position: absolute;
+    top: 5.6rem;
+    left: 1.9rem;
+}
+.kaostyle-11{
+	width: 4.1rem;
+    position: absolute;
+    top: 6.4rem;
+    left: 1.9rem;
+}
+.kaostyle-12{
+	width: 4.1rem;
+    position: absolute;
+    top: 7.2rem;
+    left: 1.9rem;
+}
+.erropng{
+	display: none;
+}
+/*首页结束*/
+
+/*聊天页开始*/
+.twobg{
+	width:100%;height:100%;
+}
+.twobg{
+	background: url(../img/bg-2.png) no-repeat;
+	background-size:100% 100%;
+	overflow:hidden;
+}
+.head{
+	text-align: center;
+}
+.dal-time{
+    width: 5.47rem;
+    height: 0.48rem;
+    padding-top: 0.1rem;
+}
+.dal-qunliao{
+	padding-top: 0.1rem;
+	width:6.8rem;
+	height: 1.34rem;
+}
+.user{
+	width: 100%;
+	display: none;
+	margin-top: 0.3rem;
+}
+.user-left{
+	padding-left: 0.18rem;
+}
+.libai{
+	width: 4.67rem;
+	height:1.17rem ;
+	padding-left: 0.18rem;
+}
+.wo1{
+	width: 7.49rem;
+	height:2.21rem;
+} 
+.wo2{
+	width: 1.76rem;
+	height:1.19rem;
+	float: left;
+} 
+.wo3{
+	width: 2.1rem;
+	height:1.19rem;
+	float: left;
+} 
+.wo4{
+	width: 2.35rem;
+	height:1.19rem;
+	float: left;
+} 
+.wo5{
+	width: 4.09rem;
+	height:0.83rem;
+	float: left;
+} 
+.libaihongbao{
+	width: 5.38rem;
+	height:1.96rem;
+}
+.wo1zonghe{
+	float: right;
+    padding-right: 0.3rem;
+    position: relative;
+    margin-top: 0.3rem;
+}
+.wo2zonghe{
+	float: right;
+    padding-left: 0.2rem;
+    margin-right: 0.3rem;
+}
+.wo3zonghe{
+	float: right;
+    padding-left: 0.2rem;
+    margin-right: 0.3rem;
+    clear: both;
+}
+.wo4zonghe{
+	float: right;
+    padding-left: 0.2rem;
+    margin-right: 0.3rem;
+    clear: both;
+}
+.wo5zonghe{
+	float: right;
+    padding-left: 0.2rem;
+    margin-right: 0.3rem;
+    clear: both;
+}
+.wo1-1{
+	width: 1.96rem;
+	height:2.03rem;
+	float: left;
+	margin-right: 0.15rem;
+}
+.wo1-2{
+	width: 1.66rem;
+	height:1..99rem;
+	position: absolute;
+	right: 1.1rem;
+}
+.wo2-1{
+	padding-top: 0.5rem;
+    padding-left: 0.2rem;
+}
+.wo3-1{
+	padding-top: 0.5rem;
+    padding-left: 0.2rem;
+}
+.wo4-1{
+	padding-top: 0.5rem;
+    padding-left: 0.2rem;
+}
+.wo5-1{
+	padding-top: 0.5rem;
+    padding-left: 0.2rem;
+}
+.petitle{
+	width: 0.74rem;
+	height:0.74rem;
+}
+.cont .hand{
+    width: 0.5rem;
+    vertical-align: middle;
+    position: absolute;
+    margin-left: -1.5rem;
+    margin-top: 0.9rem;
+    -webkit-animation: bounceIn 1s .2s ease both infinite;
+    -moz-animation: bounceIns 1s .2s ease both infinite;
+}
+.wodisply{
+	display: none;
+}
+/*聊天页结束*/
+
+/*第三页*/
+.page{
+	display: none;
+}
+.zhanwei{
+	padding-top: 2rem;
+}
+.animt-yun{
+	position: absolute;
+    top: -0.9rem;
+    left: 0.2rem;
+    width: 3.5rem;
+}
+.animt-peop-li2{
+	right: -0.1rem;
+}
+.kaostyle-2-2{
+	left: 0.9rem;
+    top: 0.4rem;
+}
+.kaostyle-3-2{
+	width: 0.8rem;
+    top: -0.4rem;
+    left: 1.5rem;
+}
+.kaostyle-4-2{
+	width: 0.6rem;
+    top: -0.1rem;
+    left: 1rem;
+}
+.kaostyle-4-3{
+    left: 1.9rem;
+    top: 0.4rem;
+}
+.kaostyle-4-2-2{
+    left: 2.2rem;
+    top: -0.3rem;
+}
+.kaostyle-5-2{
+	width: 100%;
+	left: 0;
+    top: 3.5rem;
+    position: absolute;
+}
+.kaostyle-6-2{
+	padding-top: 5.8rem;
+}
+.kaostyle-7-2{
+    top: 7.1rem;
+}
+.kaostyle-8-2{
+    top: 7.9rem
+}
+.kaostyle-9-2{
+    top: 8.7rem;
+}
+.kaostyle-10-2{
+    top: 7rem;
+}
+.kaostyle-11-2{
+    top: 7.8rem;
+}
+.kaostyle-12-2{
+    top: 8.6rem;
+}
+/*第三页结束*/
+/*第四页*/
+.liubei{
+	position: relative;
+}
+.animt-peop-liubei{
+	width: 4rem;
+    margin-top: 1rem;
+    margin-left: 0.2rem;
+}
+.animt-peop-haizi{
+	width: 2.9rem;
+	position: absolute;
+    top: 2rem;
+    display: none;
+}
+.kaostyle-6-3{
+	padding-top: 0;
+}
+.kaostyle-7-3{
+    top: 1.3rem;
+}
+.kaostyle-8-3{
+    top: 2.1rem
+}
+.kaostyle-9-3{
+    top: 2.9rem;
+}
+.kaostyle-10-3{
+    top: 1.2rem;
+}
+.kaostyle-11-3{
+    top: 2rem;
+}
+.kaostyle-12-3{
+    top: 2.8rem;
+}
+.starpng{
+	top: 1rem;
+	-webkit-animation-iteration-count: 20;
+}
+.redbg{
+	top: 2.3rem;
+    width: 3.2rem;
+}
+.guiji{
+	display: none;
+	width: 1.8rem;
+    top: 5rem;
+    left: 3.8rem;
+}
+
+/*画板素材*/
+.cloud{
+	position: relative;
+}
+.cloud1{
+	position: absolute;
+    width: 0.8rem;
+    right: 2.6rem;
+    top: 0.3rem;
+}
+.cloud2{
+	position: absolute;
+    top: 1.2rem;
+    width: 0.85rem;
+    left: 0.7rem;
+}
+.bird{
+	position: absolute;
+    width: 1.8rem;
+    right: 0.5rem;
+    top: 0.2rem;
+}
+/*红包*/
+.my_btn2{
+	width: 1.03rem;
+	height: 0.6rem;
+}
